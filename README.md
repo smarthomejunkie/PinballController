@@ -25,11 +25,11 @@ The Arduino code can be downloaded here: https://github.com/smarthomejunkie/Pinb
 
 Images:
 
-<img src="https://github.com/smarthomejunkie/PinballController/blob/main/images/IMG-6982.jpg" alt="Image 1" width="600"/>
-<img src="https://github.com/smarthomejunkie/PinballController/blob/main/images/IMG-6983.jpg" alt="Image 2" width="600"/>
-<img src="https://github.com/smarthomejunkie/PinballController/blob/main/images/IMG-6984.jpg" alt="Image 3" width="600"/>
-<img src="https://github.com/smarthomejunkie/PinballController/blob/main/images/IMG-6985.jpg" alt="Image 4" width="600"/>
-<img src="https://github.com/smarthomejunkie/PinballController/blob/main/images/arduino-schema.jpg" alt="Image 5" width="600"/>
+<img src="https://github.com/smarthomejunkie/PinballController/blob/master/images/IMG-6982.jpg" alt="Image 1" width="600"/>
+<img src="https://github.com/smarthomejunkie/PinballController/blob/master/images/IMG-6983.jpg" alt="Image 2" width="600"/>
+<img src="https://github.com/smarthomejunkie/PinballController/blob/master/images/IMG-6984.jpg" alt="Image 3" width="600"/>
+<img src="https://github.com/smarthomejunkie/PinballController/blob/master/images/IMG-6985.jpg" alt="Image 4" width="600"/>
+<img src="https://github.com/smarthomejunkie/PinballController/blob/master/images/arduino-schema.jpg" alt="Image 5" width="600"/>
 
 Video: https://youtu.be/cq8gfUr-r08
 
